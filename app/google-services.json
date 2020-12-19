@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402084209914",
+    "firebase_url": "https://push-notification-87cde.firebaseio.com",
+    "project_id": "push-notification-87cde",
+    "storage_bucket": "push-notification-87cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402084209914:android:0f4b99bd58f9194ff05543",
+        "android_client_info": {
+          "package_name": "com.epayeats.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402084209914-70k8sspfbfie5i0itj9gb347q8o6vivj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARtFX1GmNbEktsKRr11MpaSJ0XDM3NxEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402084209914-70k8sspfbfie5i0itj9gb347q8o6vivj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
